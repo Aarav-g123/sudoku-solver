@@ -1,0 +1,6 @@
+# dune init proj sudoku_solver
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/neona/.cache/dune/db
+# Workspace root: /home/neona/sudoku-solver/sudoku_solver
+# Auto-detected concurrency: 12
